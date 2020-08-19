@@ -129,6 +129,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kmap"
+    }
+  },
+  "defaultProject": "kmap",
+  "cli": {
+    "analytics": "bacd8c6d-9e0c-422b-8c61-42b7233c9c3f"
+  }
 }
